@@ -11,7 +11,7 @@ I'm a self-taught developer, passionate about building  cutting-edge webapplicat
 ## 🚀 About Me
 - 👋 Hi, I’m joyal
 - 🔨 Currently, I'm working on a project that lends money to uninsured individuals for their critical treatment.**[CARE_CREDIT]**.
-- 📖 Currently learning **[React Native, Django, etc.]**.
+- 📖 Currently learning **[React js, Django, etc.]**.
 - 🎥 Occasionally, I post on my [YouTube](https://www.youtube.com/@Stockspeak7).
 - 💬 Ask me about **Python**
 - 📫 Reach me on joyal4309@gmail.com
