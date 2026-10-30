@@ -1,7 +1,6 @@
 # Hey 👋, I'm Joyal :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyal-joseph-3b3a0820b/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://joyall.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)
 
 I'm a self-taught developer, passionate about building  cutting-edge webapplications. I work with **Python, JavaScript/Django** (c++ / Python / Mysql)**.
